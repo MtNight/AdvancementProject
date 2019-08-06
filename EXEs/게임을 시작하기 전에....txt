@@ -1,0 +1,32 @@
+게임 이름: Black & White(가제)
+제작자: 세종대 게임제작동아리 판도라큐브 수습회원 권혁재(Mt. Night)
+제작기간: 2018.9 ~ 2019.1
+버전: 0.0.2 demo(2019.01.09)
+해상도: 고정이지만 640x480으로 하면 UI가 예쁩니다.
+
+조작키
+이동: 화살표
+발사: 스페이스바
+폭탄: X
+저속: 왼쪽 쉬프트
+일시정지&해제: ESC 
+
+간단 소개:
+여러분이 다 아시는 그런 슈팅 게임입니다. 네. 스토리는 읎어요.
+
+리소스 출처:
+-그래픽
+	기체 - 직접 제작
+	탄환 - 일부 제작, 1999 strikers
+	배경 - 구글링(출처 잃어버림)
+	UI - 직접 제작
+	폰트 - Arial, PlayStation 폰트
+-사운드
+	메뉴: Feryquitous - Turning Point(https://youtu.be/V-aORT7qciQ)
+	스테이지1 필드: Sakuzyo - AXION(https://youtu.be/grqXBoooDC0)
+	스테이지1 보스: SHIKI - Pure Ruby(https://youtu.be/5Us2QCW37RE)
+	게임 오버: Guilty Gear Isuka OST - Might is Right but Tight(https://youtu.be/oSXnYdgutpk)
+
+	각종 효과음: Star Fox 64, 동방홍마향, IWBTG
+
+관련 문의: eskwon0228@naver.com

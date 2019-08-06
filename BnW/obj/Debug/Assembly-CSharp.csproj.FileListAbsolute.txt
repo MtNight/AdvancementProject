@@ -1,0 +1,2 @@
+C:\Users\eskwo\OneDrive\사진\판도라큐브\개인\BnW\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\eskwo\OneDrive\사진\판도라큐브\개인\BnW\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
